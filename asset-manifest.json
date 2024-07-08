@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/nike/static/css/main.58ad4979.css",
+    "main.js": "/nike/static/js/main.c19db3e6.js",
+    "static/media/offer.svg": "/nike/static/media/offer.c7d6b2254f4de5d7c074e97f8c72a5b9.svg",
+    "static/media/customer2.svg": "/nike/static/media/customer2.4a00a2e58f20bff031ee9b0080aadec9.svg",
+    "static/media/big-shoe2.png": "/nike/static/media/big-shoe2.7e426862e4425389e36f.png",
+    "static/media/big-shoe1.png": "/nike/static/media/big-shoe1.245a575d35e402042ac2.png",
+    "static/media/shoe8.svg": "/nike/static/media/shoe8.5749507d39f88bc6f097d3e680fde03c.svg",
+    "static/media/thumbnail-shoe2.svg": "/nike/static/media/thumbnail-shoe2.d3cdfabb135ad320c51cac98905a180f.svg",
+    "static/media/thumbnail-shoe1.svg": "/nike/static/media/thumbnail-shoe1.419becace7c4508a1c64e19cce6d730e.svg",
+    "static/media/big-shoe3.png": "/nike/static/media/big-shoe3.1d723d845874f2c6f410.png",
+    "static/media/shoe7.svg": "/nike/static/media/shoe7.e5b6df9d9c043cab431246cbe7867eb7.svg",
+    "static/media/thumbnail-shoe3.svg": "/nike/static/media/thumbnail-shoe3.789781688bc9e64c21892c87d162c19f.svg",
+    "static/media/shoe5.svg": "/nike/static/media/shoe5.b27c52cb3843afa9546441ccf69508c3.svg",
+    "static/media/shoe6.svg": "/nike/static/media/shoe6.7439d4f21f4eb5d6ca11e184cc94298f.svg",
+    "static/media/shoe4.svg": "/nike/static/media/shoe4.587890eba7a53eb41a74986541552b28.svg",
+    "static/media/customer1.jpeg": "/nike/static/media/customer1.1368410565a281a2b1e5.jpeg",
+    "static/media/support.svg": "/nike/static/media/support.c8ba291c2498b5a398e37adb1f4e6bb1.svg",
+    "static/media/footer-logo.svg": "/nike/static/media/footer-logo.d2caf458c773e1e1844b19aa08800a23.svg",
+    "static/media/header-logo.svg": "/nike/static/media/header-logo.462247ee88e9e92669dcd30aa8f518ef.svg",
+    "static/media/truck-fast.svg": "/nike/static/media/truck-fast.f397b39fb223867322a2413b6806be0e.svg",
+    "static/media/thumbnail-background.svg": "/nike/static/media/thumbnail-background.4098fd22cf9e30fedb7a4a68c3a03355.svg",
+    "static/media/instagram.svg": "/nike/static/media/instagram.812c0e2f00f4ac8871a6835a4e3f7180.svg",
+    "static/media/collection-background.svg": "/nike/static/media/collection-background.c1b1a277849e95a80eca5c61ecc37dd2.svg",
+    "static/media/twitter.svg": "/nike/static/media/twitter.0b9cb0635a158545ff44b3f2d6ee0f4b.svg",
+    "static/media/hamburger.svg": "/nike/static/media/hamburger.4fec2e6096360402fa46386d6e4cc4cd.svg",
+    "static/media/copyright-sign.svg": "/nike/static/media/copyright-sign.67135c8e77153650cd577baf0b083767.svg",
+    "static/media/shield-tick.svg": "/nike/static/media/shield-tick.635b58a89e13f790712e61bf150823fa.svg",
+    "static/media/star.svg": "/nike/static/media/star.353c3155441876ada8b56bde0adc0402.svg",
+    "static/media/facebook.svg": "/nike/static/media/facebook.dac8e08d5aceb3db1c906e6d66ec67e4.svg",
+    "static/media/arrow-right.svg": "/nike/static/media/arrow-right.7e50a565c1de8e3e6cc15df411faff04.svg",
+    "index.html": "/nike/index.html",
+    "static/media/chevron-left.svg": "/nike/static/media/chevron-left.c304e318a5678153928d062b2eb4f60c.svg",
+    "static/media/chevron-right.svg": "/nike/static/media/chevron-right.5f62b7862a6ec631a77966c1e7d88721.svg",
+    "main.58ad4979.css.map": "/nike/static/css/main.58ad4979.css.map",
+    "main.c19db3e6.js.map": "/nike/static/js/main.c19db3e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58ad4979.css",
+    "static/js/main.c19db3e6.js"
+  ]
+}
